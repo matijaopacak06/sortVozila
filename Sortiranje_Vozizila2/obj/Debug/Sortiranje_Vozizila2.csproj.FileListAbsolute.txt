@@ -1,0 +1,4 @@
+C:\Users\matij\Downloads\SortiranjeVozila2-main (1)\SortiranjeVozila2-main\Sortiranje_Vozizila2\obj\Debug\Sortiranje_Vozizila2.csproj.AssemblyReference.cache
+C:\Users\matij\Downloads\SortiranjeVozila2-main (1)\SortiranjeVozila2-main\Sortiranje_Vozizila2\obj\Debug\Sortiranje_Vozizila2.Properties.Resources.resources
+C:\Users\matij\Downloads\SortiranjeVozila2-main (1)\SortiranjeVozila2-main\Sortiranje_Vozizila2\obj\Debug\Sortiranje_Vozizila2.csproj.GenerateResource.cache
+C:\Users\matij\Downloads\SortiranjeVozila2-main (1)\SortiranjeVozila2-main\Sortiranje_Vozizila2\obj\Debug\Sortiranje_Vozizila2.csproj.CoreCompileInputs.cache
